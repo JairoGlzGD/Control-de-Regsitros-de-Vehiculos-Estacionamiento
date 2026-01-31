@@ -44,7 +44,7 @@ Si deseas correr el proyecto desde el código fuente o modificarlo:
 
 Clonar el repositorio:
 
-git clone [https://github.com/tu-usuario/sistema-estacionamiento.git](https://github.com/tu-usuario/sistema-estacionamiento.git)
+git clone https://github.com/JairoGlzGD/Control-de-Regsitros-de-Vehiculos-Estacionamiento.git
 cd sistema-estacionamiento
 
 
